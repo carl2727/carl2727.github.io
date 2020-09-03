@@ -4,8 +4,8 @@
 
 ### Dataquest.io Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://github.com/carl2727/Analyzing-NYC-High-School-Data/blob/master/Schools.ipynb">[Analyzing NYC High School Data]</a>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
