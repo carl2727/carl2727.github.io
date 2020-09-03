@@ -4,27 +4,14 @@
 
 ### Dataquest.io Projects 
 
-<a href="https://github.com/carl2727/Analyzing-NYC-High-School-Data/blob/master/Schools.ipynb">[Analyzing NYC High School Data]</a>
-
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+<a href="https://github.com/carl2727/Analyzing-NYC-High-School-Data/blob/master/Schools.ipynb">[Analyzing NYC High School Data]</a>Python Project
+<a href="https://github.com/carl2727/CIA_Factbook_Data/blob/master/Basics.ipynb">[Analyzing CIA Factbook Data Using SQL]</a>SQL Project
+<a href="https://github.com/carl2727/Answering_Business_Questions_Using_SQL/blob/master/Basics.ipynb">[Answering Business Questions Using SQL]</a>SQL Project
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
 ---
 
 
