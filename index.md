@@ -2,6 +2,10 @@
 
 ---
 
+### Personal Projects
+
+<a href="https://github.com/carl2727/World-Happiness-Report/blob/master/WHR01.ipynb>[World Happiness Report]</a> Python Project<br>
+
 ### Dataquest.io Projects 
 
 <a href="https://github.com/carl2727/Analyzing-NYC-High-School-Data/blob/master/Schools.ipynb">[Analyzing NYC High School Data]</a> Python Project<br>
