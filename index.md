@@ -4,7 +4,7 @@
 
 ### Personal Projects
 
-<a href="https://github.com/carl2727/World-Happiness-Report/blob/master/WHR01.ipynb>[World Happiness Report]</a> Python Project<br>
+<a href="https://github.com/carl2727/World-Happiness-Report/blob/master/WHR01.ipynb">[World Happiness Report]</a> Python Project<br>
 
 ### Dataquest.io Projects 
 
