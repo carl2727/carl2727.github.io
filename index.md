@@ -4,6 +4,7 @@
 
 ### Personal Projects
 
+<a href="https://github.com/carl2727/NBA-data-analysis-project/blob/main/01.ipynb">[NBA Data Analysis Project]</a> Python Project (work in progress)<br>
 <a href="https://github.com/carl2727/World-Happiness-Report/blob/master/WHR01.ipynb">[World Happiness Report]</a> Python Project<br>
 
 ### Dataquest.io Projects 
