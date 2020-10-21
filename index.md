@@ -18,7 +18,7 @@
 <a href="https://github.com/carl2727/Mobile-App-for-Lottery-Addiction/blob/master/Basics.ipynb">[Mobile App for Lottery Addiction]</a> Python Project<br>
 <a href="https://github.com/carl2727/Star-Wars-Survey/blob/master/Basics.ipynb">[Star Wars Survey]</a> Python Project<br>
 <a href="https://github.com/carl2727/Visualizing-Earnings-Based-On-College-Majors/blob/master/Basics.ipynb">[Visualizing Earnings Based On College Majors]</a> Python Project<br>
-<a href="https://github.com/carl2727/Visualizing-The-Gender-Gap-In-College-Degrees/blob/master/Basics.ipynb">[Visualizing The Gender Gap In College Degrees]</a> Python Project<br>
+<a href="https://github.com/carl2727/Visualizing-The-Gender-Gap-In-College-Degrees/blob/master/Basics.ipynb">[Fandango Movie Ratings]</a> Python Project<br>
 <a href="https://github.com/carl2727/CIA_Factbook_Data/blob/master/Basics.ipynb">[Analyzing CIA Factbook Data Using SQL]</a> SQL Project<br>
 <a href="https://github.com/carl2727/Winning-Jeopardy/blob/master/Basics.ipynb">[Winning Jeopardy]</a> Python Project<br>
 
